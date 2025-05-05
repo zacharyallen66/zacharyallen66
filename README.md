@@ -7,7 +7,7 @@ I'm a data-driven economist and analytics specialist based in Southern Nevada, c
 - 👀 I’m interested in **econometrics, machine learning, spatial analytics, financial modeling, and market analysis**  
 - 🌱 I’m currently learning **LLMs for data summarization, time series forecasting, and production-grade Python packaging**
 - 💞️ I’m looking to collaborate on **open-source tools in economic research, civic data platforms, and analytics workflows for public good**
-- 📫 Reach me at **zachary.allen@unlv.edu** or connect via [LinkedIn](https://www.linkedin.com/in/zacharywallen/)
+- 📫 Reach me at **allenwzac1@gmail.com** or connect via [LinkedIn](https://www.linkedin.com/in/zacharywallen/)
 - ⚡  Fun fact: I've been studying financial markets and trading independently since 2010 — these days, I channel that into building analytics tools for options strategies, risk modeling, and volatility insights. - See my options trader screener made via polygon.io API. 
 ---
 
