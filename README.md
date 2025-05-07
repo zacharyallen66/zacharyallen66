@@ -22,9 +22,6 @@ I'm a data-driven economist and analytics specialist based in Southern Nevada, c
 - 🥭 **[Mango Leaf Disease Classifier](https://github.com/zacharyallen66/mango-disease-app)**  
   A computer vision Streamlit app built with TensorFlow to detect mango leaf diseases and recommend remedies. Trained on 8 disease classes with real-world guidance built into the interface.
 
-- 🤖 **[MIS 776: Applied Machine Learning Portfolio](https://github.com/zacharyallen66/mis776-machine-learning)**  
-  A comprehensive portfolio from UNLV’s graduate ML course: 12 modules covering regression, classification, ensembles, CNNs, YOLO, reinforcement learning, AutoML, and AI ethics — all with annotated notebooks and slide decks.
-
 - 🌐 **[WDI Emissions & Development Project](https://github.com/zacharyallen66/wdi-emissions-analysis)**  
   Group project analyzing the connection between economic development and greenhouse gas emissions using PCA, World Bank data, and OWID emissions indicators.
 
@@ -36,6 +33,9 @@ I'm a data-driven economist and analytics specialist based in Southern Nevada, c
 - 🔥 **[Las Vegas Sports Activity Index Map](https://arcg.is/1S40GC)**  
   Interactive ArcGIS map built to identify "sports deserts" using census tracts, DETR employment data, and city infrastructure layers.  
   → Read more in the [CBER White Paper](https://cber.unlv.edu/wp-content/uploads/2023/05/Sports-Economy-White-Paper_April-2023-FINAL.pdf)
+
+- 🤖 **[MIS 776: Applied Machine Learning Portfolio](https://github.com/zacharyallen66/mis776-machine-learning)**  
+  A comprehensive portfolio from UNLV’s graduate ML course: 12 modules covering regression, classification, ensembles, CNNs, YOLO, reinforcement learning, AutoML, and AI ethics — all with annotated notebooks and slide decks.
 
 ---
 
