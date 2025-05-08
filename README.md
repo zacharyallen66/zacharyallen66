@@ -37,6 +37,10 @@ I'm a data-driven economist and analytics specialist based in Southern Nevada, c
 - 🤖 **[MIS 776: Applied Machine Learning Portfolio](https://github.com/zacharyallen66/mis776-machine-learning)**  
   A comprehensive portfolio from UNLV’s graduate ML course: 12 modules covering regression, classification, ensembles, CNNs, YOLO, reinforcement learning, AutoML, and AI ethics — all with annotated notebooks and slide decks.
 
+ -💬 **[Gen Z NLP Engagement Project](https://github.com/zacharyallen66/genz-nlp-engagement)**  
+  A sentiment-driven NLP pipeline using BERTopic and OpenRouter to help brands engage authentically with Gen Z and chronically-online audiences. Combines topic modeling with LLM-generated, on-brand responses to scale personalized outreach based on real social media conversations.
+
+
 ---
 
-Thanks for visiting! I'm always open to connecting on projects at the intersection of data, economics, civic infrastructure policy, and strategic impact — whether it's markets, public planning, or national security.
+Thanks for visiting! I'm always open to connecting on projects at the intersection of data, economics, civic infrastructure policy, and strategic impact — whether it's markets, public planning, I'm open to all ventures.
