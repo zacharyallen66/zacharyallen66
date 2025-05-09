@@ -15,7 +15,7 @@ Since then, I've expanded into Python, R, SQL, STATA, and ArcGIS Pro — combini
 
 🛠️ Languages & Tools: Python (most experienced), R, STATA, SQL, Java, ArcGIS Pro, HTML/CSS, Bash, Simba/Pascal (legacy), and advanced Boolean logic
 
-📫 Reach me at allenwzac1@gmail.com or connect via LinkedIn
+📫 Reach me at allenwzac1@gmail.com or connect via LinkedIn https://www.linkedin.com/in/zacharywallen/
 
 ⚡ Fun fact: I've been tracking markets and developing trading logic since 2010 — these days I channel that into building option analytics tools using live data APIs, Monte Carlo simulations, and risk/volatility modeling. See my options screener powered by Polygon.io.
 
