@@ -7,17 +7,16 @@ Since then, I've expanded into Python, R, SQL, STATA, and ArcGIS Pro — combini
 
 ---
 
--👀  I’m interested in machine learning, spatial analytics, economic intelligence, and decision modeling — especially in domains tied to strategic security, infrastructure, or policy 
+🛠️ **Technical Skills & Tools**  
+- **Languages:** Python (advanced), R, SQL, Java, STATA  
+- **GIS & Visualization:** ArcGIS Pro/Online, Tableau, Power BI  
+- **ML & Statistical Tools:** pandas, NumPy, Scikit-learn, TensorFlow/Keras, BERTopic, Streamlit, Matplotlib, Seaborn  
+- **Other:** Git/GitHub, Web Scraping, Advanced Boolean logic, Secure database queries, Palantir Foundry
 
-🌱 I’m currently exploring LLMs for applied text analysis, time series forecasting, and production-grade Python tooling
-
-💞️ I’m looking to collaborate on open-source tools in economic research, civic data platforms, and analytics workflows for impact
-
-🛠️ Languages & Tools: Python (most experienced), R, STATA, SQL, Java, ArcGIS Pro, HTML/CSS, Bash, Simba/Pascal (legacy), and advanced Boolean logic
-
-📫 Reach me at allenwzac1@gmail.com or connect via LinkedIn https://www.linkedin.com/in/zacharywallen/
-
-⚡ Fun fact: I've been tracking markets and developing trading logic since 2010 — these days I channel that into building option analytics tools using live data APIs, Monte Carlo simulations, and risk/volatility modeling. See my options screener powered by Polygon.io.
+🚀 **Currently Exploring**  
+- Applied NLP with LLMs  
+- Time series forecasting techniques  
+- Production-grade analytics and ML pipelines
 
 ---
 
@@ -58,5 +57,11 @@ Since then, I've expanded into Python, R, SQL, STATA, and ArcGIS Pro — combini
   A comprehensive portfolio from UNLV’s graduate ML course: 12 modules covering regression, classification, ensembles, CNNs, YOLO, reinforcement learning, AutoML, and AI ethics — all with annotated notebooks and slide decks.
 
 ---
+📫 **Connect**: [Email](mailto:allenwzac1@gmail.com) | [LinkedIn](https://www.linkedin.com/in/zacharywallen/)
 
-Thanks for visiting! I'm always open to connecting on projects at the intersection of data, economics, civic infrastructure policy, and strategic impact.
+⚡ **Fun Fact**: I've tracked markets and built trading analytics tools since 2010—currently focused on advanced options analytics, volatility modeling, and ROI optimization.
+
+---
+
+Thank you for visiting! I'm always excited to collaborate on projects at the intersection of data, economics, civic policy, and strategic analytics.
+
