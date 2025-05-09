@@ -59,4 +59,4 @@ Since then, I've expanded into Python, R, SQL, STATA, and ArcGIS Pro — combini
 
 ---
 
-Thanks for visiting! I'm always open to connecting on projects at the intersection of data, economics, civic infrastructure policy, and strategic impact — whether it's markets, public planning, I'm open to all ventures.
+Thanks for visiting! I'm always open to connecting on projects at the intersection of data, economics, civic infrastructure policy, and strategic impact.
