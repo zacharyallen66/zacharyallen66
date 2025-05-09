@@ -4,7 +4,7 @@ I'm a data-driven economist and analytics specialist based in Southern Nevada, c
 
 ---
 
-- 👀 I’m interested in **econometrics, machine learning, spatial analytics, financial modeling, and market analysis**  
+- 👀 I’m interested in **All things Data Science, econometrics, machine learning, spatial analytics, financial modeling, and market analysis**  
 - 🌱 I’m currently learning **LLMs for data summarization, time series forecasting, and production-grade Python packaging**
 - 💞️ I’m looking to collaborate on **open-source tools in economic research, civic data platforms, and analytics workflows for public good**
 - 📫 Reach me at **allenwzac1@gmail.com** or connect via [LinkedIn](https://www.linkedin.com/in/zacharywallen/)
