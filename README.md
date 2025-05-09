@@ -26,7 +26,6 @@ Since then, I've expanded into Python, R, SQL, STATA, and ArcGIS Pro — combini
   Built Python pipelines for commodity classification, freight mode shares, and inbound/outbound routing patterns.  
   Includes circular commodity charts, time series, and state-region trade flow maps.  
   → See full draft: [PDF Report](https://cber.unlv.edu/wp-content/uploads/2024/03/Southern-Nevada-Industrial-Study.pdf)  
-  → Code: [Notebooks Folder](https://github.com/zacharyallen66/southern-nevada-freight-analysis/tree/main/notebooks)
   
 - 🧠 **[BERTopic Survey Analysis](https://github.com/zacharyallen66/bertopic-nps)**  
   NLP pipeline for analyzing customer feedback and Net Promoter Score transitions using BERTopic and LLMs.
