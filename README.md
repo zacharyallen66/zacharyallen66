@@ -39,18 +39,17 @@ Since then, I've expanded into Python, R, SQL, STATA, and ArcGIS Pro — combini
   Interactive ArcGIS map built to identify "sports deserts" using census tracts, DETR employment data, and city infrastructure layers.  
   → Read more in the [CBER White Paper](https://cber.unlv.edu/wp-content/uploads/2023/05/Sports-Economy-White-Paper_April-2023-FINAL.pdf)
 
-- 🤖 **[MIS 776: Applied Machine Learning Portfolio](https://github.com/zacharyallen66/mis776-machine-learning)**  
-  A comprehensive portfolio from UNLV’s graduate ML course: 12 modules covering regression, classification, ensembles, CNNs, YOLO, reinforcement learning, AutoML, and AI ethics — all with annotated notebooks and slide decks.
-
  - 💬 **[Gen Z NLP Engagement Project](https://github.com/zacharyallen66/genz-nlp-engagement)**  
   A sentiment-driven NLP pipeline using BERTopic and OpenRouter to help brands engage authentically with Gen Z and chronically-online audiences. Combines topic modeling with LLM-generated, on-brand responses to scale personalized outreach based on real social media conversations.
 
-- 🗺️ **[Complete Streets GIS Explorer](https://github.com/zacharyallen66/complete-streets-gis)**  
+- (UPLOADING SOON) 🗺️ **[Complete Streets GIS Explorer](https://github.com/zacharyallen66/complete-streets-gis)**  
   ArcGIS and Python workflows evaluating corridor-level zoning, land use, and density along Las Vegas arterials.
 
-- 🌍 **[Spatial Equity Explorer](https://github.com/zacharyallen66/urban-density-analysis)**  
+- (UPLOADING SOON) 🌍 **[Spatial Equity Explorer](https://github.com/zacharyallen66/urban-density-analysis)**  
   Census-based walkability, land use, and density analytics across Las Vegas to support Complete Streets planning.
   
+- 🤖 **[MIS 776: Applied Machine Learning Portfolio](https://github.com/zacharyallen66/mis776-machine-learning)**  
+  A comprehensive portfolio from UNLV’s graduate ML course: 12 modules covering regression, classification, ensembles, CNNs, YOLO, reinforcement learning, AutoML, and AI ethics — all with annotated notebooks and slide decks.
 
 ---
 
