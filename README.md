@@ -4,13 +4,21 @@ I'm a data-driven economist and analytics specialist based in Southern Nevada, c
 My journey into data began in 2008 building bots and automation scripts using Simba and Pascal, which later evolved into structured analytics during my military service as an all-source intelligence analyst. Through that role, I developed foundational skills in advanced Boolean logic, data structuring, and system-level querying — sharpening my analytical reasoning long before transitioning to formal data science roles.
 
 Since then, I've expanded into Python, R, SQL, STATA, and ArcGIS Pro — combining my economics background with machine learning, spatial analytics, and statistical modeling to deliver actionable insights for governments, universities, and the public good.
+
 ---
 
-- 👀 I’m interested in **All things Data Science, econometrics, machine learning, spatial analytics, financial modeling, and market analysis**  
-- 🌱 I’m currently learning **LLMs for data summarization, time series forecasting, and production-grade Python packaging**
-- 💞️ I’m looking to collaborate on **open-source tools in economic research, civic data platforms, and analytics workflows for public good**
-- 📫 Reach me at **allenwzac1@gmail.com** or connect via [LinkedIn](https://www.linkedin.com/in/zacharywallen/)
-- ⚡  Fun fact: I've been studying financial markets and trading independently since 2010 — these days, I channel that into building analytics tools for options strategies, risk modeling, and volatility insights. - See my options trader screener made via polygon.io API. 
+- 👀 I’m interested in econometrics, machine learning, spatial analytics, financial modeling, and behavioral market analysis
+
+🌱 I’m currently exploring LLMs for applied text analysis, time series forecasting, and production-grade Python tooling
+
+💞️ I’m looking to collaborate on open-source tools in economic research, civic data platforms, and analytics workflows for impact
+
+🛠️ Languages & Tools: Python (most experienced), R, STATA, SQL, Java, ArcGIS Pro, HTML/CSS, Bash, Simba/Pascal (legacy), and advanced Boolean logic
+
+📫 Reach me at allenwzac1@gmail.com or connect via LinkedIn
+
+⚡ Fun fact: I've been tracking markets and developing trading logic since 2010 — these days I channel that into building option analytics tools using live data APIs, Monte Carlo simulations, and risk/volatility modeling. See my options screener powered by Polygon.io.
+
 ---
 
 ### 📊 Featured Projects
