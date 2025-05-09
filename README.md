@@ -7,7 +7,7 @@ Since then, I've expanded into Python, R, SQL, STATA, and ArcGIS Pro — combini
 
 ---
 
-- 👀 I’m interested in econometrics, machine learning, spatial analytics, financial modeling, and behavioral market analysis
+-👀  I’m interested in machine learning, spatial analytics, economic intelligence, and decision modeling — especially in domains tied to infrastructure, policy, or strategic security
 
 🌱 I’m currently exploring LLMs for applied text analysis, time series forecasting, and production-grade Python tooling
 
