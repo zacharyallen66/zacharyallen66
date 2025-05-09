@@ -35,11 +35,6 @@ Since then, I've expanded into Python, R, SQL, STATA, and ArcGIS Pro — combini
 - 🌐 **[WDI Emissions & Development Project](https://github.com/zacharyallen66/wdi-emissions-analysis)**  
   Group project analyzing the connection between economic development and greenhouse gas emissions using PCA, World Bank data, and OWID emissions indicators.
 
-- 🗺️ **[Complete Streets GIS Explorer](https://github.com/zacharyallen66/complete-streets-gis)**  
-  ArcGIS and Python workflows evaluating corridor-level zoning, land use, and density along Las Vegas arterials.
-- 🌍 **[Spatial Equity Explorer](https://github.com/zacharyallen66/urban-density-analysis)**  
-  Census-based walkability, land use, and density analytics across Las Vegas to support Complete Streets planning.
-  
 - 🔥 **[Las Vegas Sports Activity Index Map](https://arcg.is/1S40GC)**  
   Interactive ArcGIS map built to identify "sports deserts" using census tracts, DETR employment data, and city infrastructure layers.  
   → Read more in the [CBER White Paper](https://cber.unlv.edu/wp-content/uploads/2023/05/Sports-Economy-White-Paper_April-2023-FINAL.pdf)
@@ -50,6 +45,12 @@ Since then, I've expanded into Python, R, SQL, STATA, and ArcGIS Pro — combini
  - 💬 **[Gen Z NLP Engagement Project](https://github.com/zacharyallen66/genz-nlp-engagement)**  
   A sentiment-driven NLP pipeline using BERTopic and OpenRouter to help brands engage authentically with Gen Z and chronically-online audiences. Combines topic modeling with LLM-generated, on-brand responses to scale personalized outreach based on real social media conversations.
 
+- 🗺️ **[Complete Streets GIS Explorer](https://github.com/zacharyallen66/complete-streets-gis)**  
+  ArcGIS and Python workflows evaluating corridor-level zoning, land use, and density along Las Vegas arterials.
+
+- 🌍 **[Spatial Equity Explorer](https://github.com/zacharyallen66/urban-density-analysis)**  
+  Census-based walkability, land use, and density analytics across Las Vegas to support Complete Streets planning.
+  
 
 ---
 
