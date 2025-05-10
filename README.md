@@ -1,4 +1,4 @@
-### 👋 Hi, I’m @zacharyallen66
+### 👋 Hi, 
 I'm a data-driven economist and analytics specialist based in Southern Nevada, currently working at UNLV on research projects for public-sector and economic development clients.
 
 My journey into data began in 2008 building bots and automation scripts using Simba and Pascal, which later evolved into structured analytics during my military service as an all-source intelligence analyst. Through that role, I developed foundational skills in advanced Boolean logic, data structuring, and system-level querying — sharpening my analytical reasoning long before transitioning to formal data science roles.
